@@ -1,0 +1,11 @@
+STEPS TO CREATING API
+
+1)install django restframework
+2)add it to installed apps
+3)add path in project urls
+
+
+
+
+
+ run frontend on any device:  http://192.168.101.152:3000
